@@ -3,7 +3,6 @@
 
 from sensor import *
 
-
 def apply_null_filter(data):
     filtered = []
     for datum in data:
