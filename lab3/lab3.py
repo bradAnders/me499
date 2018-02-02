@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 # File:             lab3.py
 # Author:           Brad Anderson

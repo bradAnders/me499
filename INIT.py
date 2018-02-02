@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 # File:             .py
 # Author:           Brad Anderson
@@ -11,6 +11,7 @@
 # MAIN
 if __name__ == "__main__":
 
+    print 'Hello world!'
 
 # end main
 
