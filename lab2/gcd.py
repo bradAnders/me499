@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 # File:             gcd.py
 # Title:            ME499 Lab2 - Greatest common denominator

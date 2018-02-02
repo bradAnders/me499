@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 # File:             filters.py
 # Author:           Brad Anderson

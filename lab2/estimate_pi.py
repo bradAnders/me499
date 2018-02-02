@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 
 # File:             estimate_pi.py
 # Title:            ME499 Lab2 - Estimating Pi
