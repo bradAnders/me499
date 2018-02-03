@@ -10,20 +10,20 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
-import math
+from math import pi, sin
 
 
 # plots a sin function
-def sinPlot():
+def sinPlot(s=0.0, e=2*pi, c=100):
 
-    # (start, stop, count)
-    time = np.linspace(0, 4*math.pi, 1000)
+    # (start, end, count)
+    time = np.linspace(s, e, c)
     
-    plt.plot(time, map(math.sin,time))
-    plt.axis([1, 4*math.pi, -1, 1])
+    plt.plot(time, map(sin,time))
+    plt.axis([s, e, -1, 1])
     plt.xlabel('x')
     plt.ylabel('y = sin(x)')
-    plt.title('A sin wave!')
+    plt.title('A {0:.2}-wavelength sin wave!'.format((e-s)/(2*pi)))
     plt.show()
 
 # end def
