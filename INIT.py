@@ -5,7 +5,10 @@
 # Date:             February 2, 2018
 # Project:          ME499 Lab3
 # Description:      
-# Collaborators:    
+# Collaborators: 
+# Sources Used:
+#   -- Reason --
+#   URL
 
 
 # MAIN
