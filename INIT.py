@@ -2,8 +2,8 @@
 
 # File:             .py
 # Author:           Brad Anderson
-# Date:             February 2, 2018
-# Project:          ME499 Lab3
+# Date:             
+# Project:          
 # Description:      
 # Collaborators: 
 # Sources Used:
