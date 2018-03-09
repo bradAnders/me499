@@ -10,9 +10,15 @@
 #   -- Reason --
 #   URL
 
+from subprocess import call
+import sys
 
 # MAIN
 if __name__ == "__main__":
+
+    sys_args = sys.argv
+
+    call(["clear"])
 
     print 'Hello world!'
 
